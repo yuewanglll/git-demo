@@ -9,3 +9,5 @@ hello git!! hello czjt
 hello git!! hello czjt master text
 hello git!! hello czjt hot-fix test
 11111111111111111111111111111111111
+22222222222222222222222222222222222
+测试GitHub已有该分支再次push是否覆盖
